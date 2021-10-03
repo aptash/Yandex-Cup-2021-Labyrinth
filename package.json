@@ -2,7 +2,7 @@
   "name": "user-tester",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "npm-run-parallel watch serve",
     "build": "tsc",
